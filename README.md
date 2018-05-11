@@ -1,2 +1,4 @@
 # Project1
-Web App Practice
+Web App Practice 
+
+Getting to know github
